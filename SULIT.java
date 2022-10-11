@@ -1,12 +1,3 @@
-/*TUGAS PERTEMUAN KE-01
-PEMROGRAMAN BERORIENTASI OBJEK, GANJIL 2022/2023
-NPM : 2113020013
-Nama : Septian Hariadi
-Kelas : 2J
-Kategori : Sulit
-Soal : Membuat toko online dimana inputnya adalah kode barang dan banyak yang dibeli. Dengan list barang yang sudah ditentukan
-*/
-
 import java.util.*;
 import java.lang.Math;
 
