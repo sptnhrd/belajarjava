@@ -1,12 +1,3 @@
-/*TUGAS PERTEMUAN KE-01
-PEMROGRAMAN BERORIENTASI OBJEK, GANJIL 2022/2023
-NPM : 2113020013
-Nama : Septian Hariadi
-Kelas : 2J
-Kategori : Kompleks
-Soal : Membuat program mencari anak penerima bantuan dimana nama anak diinputkan lebih dulu. Dan input pencarian nama anak 
-*/
-
 import java.util.*;
 
 public class KOMPLEKS{
