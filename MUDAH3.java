@@ -1,12 +1,3 @@
-/*TUGAS PERTEMUAN KE-01
-PEMROGRAMAN BERORIENTASI OBJEK, GANJIL 2022/2023
-NPM : 2113020013
-Nama : Septian Hariadi
-Kelas : 2J
-Kategori : Mudah
-Soal : Menentukan faktorial suatu bilangan yang diinputkan
-*/
-
 import java.util.*;
 
 public class MUDAH3 {
